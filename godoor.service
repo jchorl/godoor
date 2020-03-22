@@ -1,0 +1,14 @@
+[Unit]
+Description=godoor
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=5
+User=root
+ExecStart=/home/pi/godoor/godoor --logtostderr
+
+[Install]
+WantedBy=multi-user.target

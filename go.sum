@@ -1,0 +1,6 @@
+github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b h1:VKtxabqXZkF25pY9ekfRL6a582T4P37/31XEstQ5p58=
+github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
+github.com/mrmorphic/hwio v0.0.0-20180519033216-11ea3f481a14 h1:Ydoe3Zh7ZUyGK6POjNahuwN/bpVkaPtCpqNoCkrQtAU=
+github.com/mrmorphic/hwio v0.0.0-20180519033216-11ea3f481a14/go.mod h1:Z3CHhCfKg+qeDJsQgvlhJeI61Lmjt2KE9PUSgL3LDLM=
+github.com/stianeikeland/go-rpio v4.2.0+incompatible h1:CUOlIxdJdT+H1obJPsmg8byu7jMSECLfAN9zynm5QGo=
+github.com/stianeikeland/go-rpio v4.2.0+incompatible/go.mod h1:Sh81rdJwD96E2wja2Gd7rrKM+XZ9LrwvN2w4IXrqLR8=
